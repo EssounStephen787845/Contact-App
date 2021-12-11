@@ -143,39 +143,12 @@ class HomePage extends StatelessWidget {
                      "https://cdn.pixabay.com/photo/2017/04/03/10/42/woman-2197947__340.jpg",
                     onPressed: (){},
                   ),
-                  // ContactCard(
-                  //   userName: "",
-                  //   userContact: ,
-                  //   imageUrl: "",
-                  // ),
-                  // ContactCard(
-                  //   userName: "",
-                  //   userContact: ,
-                  //   imageUrl: "",
-                  // ),
-                  // ContactCard(
-                  //   userName: "",
-                  //   userContact: ,
-                  //   imageUrl: "",
-                  // ),
-                  // ContactCard(
-                  //   userName: "",
-                  //   userContact: ,
-                  //   imageUrl: "",
-                  // ),
-                  // ContactCard(
-                  //   userName: "",
-                  //   userContact: ,
-                  //   imageUrl: "",
-                  // ),
                 ]),
               ),
             )
           ],
         ),
       ),
-
-      //floatingAcion Button
       floatingActionButton: CircleAvatar(
         radius: 30,
         backgroundColor: Color(0xff1a4ada),
